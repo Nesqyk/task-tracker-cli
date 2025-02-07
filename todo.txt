@@ -1,0 +1,5 @@
+Things need to do before starting this project:
+learn:
+file handling,
+how args works,
+proper oop,
